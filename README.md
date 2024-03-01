@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link][(https://your-solution-url.com](https://www.frontendmentor.io/solutions/advice-generator-app-vNpColRea7))
+- Solution URL: [Link]([[https://www.frontendmentor.io/solutions/advice-generator-app-vNpColRea7](https://www.frontendmentor.io/solutions/advice-generator-app-vNpColRea7)])
 - Live Site URL: [Link]([https://www.frontendmentor.io/solutions/advice-generator-app-vNpColRea7])
 
 ## My process
