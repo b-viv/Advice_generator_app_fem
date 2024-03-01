@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-flexbox-and-grid-Ln2Hf1vqLF](https://www.frontendmentor.io/solutions/advice-generator-app-vNpColRea7))
-- Live Site URL: [Link](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-flexbox-and-grid-Ln2Hf1vqLF](https://b-viv.github.io/Advice_generator_app_fem/))
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/advice-generator-app-vNpColRea7)
+- Live Site URL: [Link](https://b-viv.github.io/Advice_generator_app_fem/)
 
 ## My process
 
@@ -32,4 +32,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor -  [Link]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-flexbox-and-grid-Ln2Hf1vqLF)](https://www.frontendmentor.io/profile/b-viv)https://www.frontendmentor.io/profile/b-viv)
+- Frontend Mentor -  [@Viv](https://www.frontendmentor.io/profile/b-viv)
