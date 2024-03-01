@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link][(https://your-solution-url.com](https://www.frontendmentor.io/solutions/advice-generator-app-vNpColRea7))
-- Live Site URL: [Link]([https://your-live-site-url.com](https://b-viv.github.io/Advice_generator_app_fem/))
+- Live Site URL: [Link]([https://www.frontendmentor.io/solutions/advice-generator-app-vNpColRea7])
 
 ## My process
 
